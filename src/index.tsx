@@ -1,10 +1,4 @@
-/*
- * @Author: sheng.Zhang
- * @Date: 2022-01-20 11:09:49
- * @LastEditors: sheng.Zhang
- * @LastEditTime: 2022-01-20 14:47:36
- * @Description: 
- */
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

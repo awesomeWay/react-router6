@@ -1,10 +1,4 @@
-/*
- * @Author: sheng.Zhang
- * @Date: 2022-01-20 11:33:49
- * @LastEditors: sheng.Zhang
- * @LastEditTime: 2022-01-21 14:04:35
- * @Description: 
- */
+
 import type { RouteObject } from 'react-router-dom'
 import BaseLayout from '../layout/BaseLayout'
 import About from '../pages/About'

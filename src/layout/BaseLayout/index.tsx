@@ -1,10 +1,4 @@
-/*
- * @Author: sheng.Zhang
- * @Date: 2022-01-20 14:07:41
- * @LastEditors: sheng.Zhang
- * @LastEditTime: 2022-01-23 17:49:47
- * @Description: 
- */
+
 import { Layout, Menu } from 'antd'
 import React from 'react'
 import { Outlet ,useNavigate } from 'react-router';
